@@ -1,0 +1,25 @@
+{
+  "name": "checklist-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjaySingh-Eng/Checklist-System.git"
+  },
+  "author": "Ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjaySingh-Eng/Checklist-System/issues"
+  },
+  "homepage": "https://github.com/AjaySingh-Eng/Checklist-System#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
